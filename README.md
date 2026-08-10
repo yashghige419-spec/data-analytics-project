@@ -9,30 +9,10 @@ The project uses SQL,  Excel, and Power BI to clean, analyze, and visualize the 
 SQL – Data querying and analysis
 Excel – Data preparation and initial analysis
 Power BI – Data visualization and dashboard creation
-📂 Project Structure
-Ola-Data-Analysis/
-│
-├── dataset/
-│   └── ola_data.xlsx
-│
-├── sql/
-│   └── ola_analysis.sql
-│
-├── powerbi/
-│   └── ola_dashboard.pbix
-│
-├── dashboard/
-│   └── ola_dashboard.pdf
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
+
 📊 Dashboard
 
 The Power BI dashboard provides an overview of the Ola ride data and helps analyze key metrics and trends.
-
-
 
 
 🔍 Analysis Performed
