@@ -19,34 +19,34 @@ The Power BI dashboard provides an overview of the Ola ride data and helps analy
 
 The project analyzes areas such as:
 
-Total number of bookings
-Revenue generated
-Successful and cancelled rides
-Customer booking patterns
-Ride and vehicle performance
-Payment methods
-Customer ratings
-Booking trends
-Cancellation patterns
-🗄️ SQL Analysis
+Total number of bookings,
+Revenue generated,
+Successful and cancelled rides,
+Customer booking patterns,
+Ride and vehicle performance,
+Payment methods,
+Customer ratings,
+Booking trends,
+Cancellation patterns,
+🗄️ SQL Analysis,
 
 SQL was used to query the dataset and extract useful information, including:
 
-Aggregating bookings and revenue
-Analyzing cancellation rates
-Comparing ride performance
-Identifying customer and booking trends
-Generating business-related insights
+Aggregating bookings and revenue,
+Analyzing cancellation rates,
+Comparing ride performance,
+Identifying customer and booking trends,
+Generating business-related insights,
 
 
 
 The analysis helps identify:
 
-Overall booking and revenue performance
-Customer booking behavior
-Major reasons for ride cancellations
-Performance differences across ride/vehicle categories
-Trends that can help improve customer experience and business performance
+Overall booking and revenue performance,
+Customer booking behavior,
+Major reasons for ride cancellations,
+Performance differences across ride/vehicle categories,
+Trends that can help improve customer experience and business performance,
 🎯 Project Objective
 
 The main objective of this project is to demonstrate practical Data Analyst skills by transforming raw ride data into meaningful business insights using SQL,Excel, and Power BI.
