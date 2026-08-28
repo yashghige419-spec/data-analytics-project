@@ -1,62 +1,67 @@
+# OLA Ride Booking & Cancellation Analysis
 
-📌 Project Overview
+## Project Overview
 
-This project focuses on analyzing Ola ride data to identify important business insights related to bookings, revenue, customer behavior, cancellations, and ride performance.
+This project analyzes OLA ride booking data to uncover insights into bookings, revenue, cancellations, customer behavior, ride patterns, and overall business performance.
 
-The project uses SQL,  Excel, and Power BI to clean, analyze, and visualize the data and present meaningful insights through an interactive dashboard.
+The analysis uses SQL, Excel, and Power BI for data analysis, KPI calculation, visualization, and dashboard creation.
 
-🛠️ Tools & Technologies
-SQL – Data querying and analysis
-Excel – Data preparation and initial analysis
-Power BI – Data visualization and dashboard creation
+## Business Objectives
 
-📊 Dashboard
+- Analyze overall ride booking performance
+- Evaluate booking value and revenue trends
+- Understand successful and cancelled bookings
+- Identify customer and driver cancellation reasons
+- Analyze ride distance and booking patterns
+- Understand payment method usage
+- Identify operational areas that may require improvement
 
-The Power BI dashboard provides an overview of the Ola ride data and helps analyze key metrics and trends.
+## Key KPIs
 
+- **Total Bookings:** 103,024
+- **Booking Value:** ₹35.1M
+- **Successful Bookings:** 63,967
+- **Cancelled Bookings:** 28,933
+- **Cancellation Rate:** 28.08%
 
-🔍 Analysis Performed
+## Key Analysis
 
-The project analyzes areas such as:
+### Booking Performance
+Analyzed booking volume and booking status to understand overall ride performance.
 
-Total number of bookings,
-Revenue generated,
-Successful and cancelled rides,
-Customer booking patterns,
-Ride and vehicle performance,
-Payment methods,
-Customer ratings,
-Booking trends,
-Cancellation patterns,
-🗄️ SQL Analysis,
+### Revenue Analysis
+Analyzed booking value and revenue across different payment methods and booking patterns.
 
-SQL was used to query the dataset and extract useful information, including:
+### Cancellation Analysis
+Analyzed customer and driver cancellation reasons to identify potential operational issues.
 
-Aggregating bookings and revenue,
-Analyzing cancellation rates,
-Comparing ride performance,
-Identifying customer and booking trends,
-Generating business-related insights,
+### Customer Analysis
+Examined customer booking activity and identified top customers based on booking value.
 
+### Ride Analysis
+Analyzed ride distance and booking trends over time.
 
+## Dashboard
 
-The analysis helps identify:
+An interactive Power BI dashboard was created to present:
 
-Overall booking and revenue performance,
-Customer booking behavior,
-Major reasons for ride cancellations,
-Performance differences across ride/vehicle categories,
-Trends that can help improve customer experience and business performance,
-🎯 Project Objective
+- Total bookings
+- Booking value
+- Booking status
+- Cancellation rate
+- Customer cancellation reasons
+- Driver cancellation reasons
+- Revenue by payment method
+- Ride distance trends
+- Top customers
+- Booking trends
 
-The main objective of this project is to demonstrate practical Data Analyst skills by transforming raw ride data into meaningful business insights using SQL,Excel, and Power BI.
+## Tools & Technologies
 
-👨‍💻 Skills Demonstrated
-Data Cleaning
-Data Analysis
-SQL
-Excel
-Power BI
-Data Visualization
-Exploratory Data Analysis
-Insight Generation
+- **SQL** – Data analysis and querying
+- **Excel** – Data analysis and KPI calculations
+- **Power BI** – Dashboard and data visualization
+
+## Project Outcome
+
+The project provides a business-focused view of OLA ride performance and highlights booking trends, revenue performance and cancellation patterns that can help identify potential operational improvement areas.
